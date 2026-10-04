@@ -11,6 +11,6 @@
   </tr>
   <tr>
     <td width="72"><a href="https://aside-landing-two.vercel.app"><img src="icons/aside.png" width="64" alt="aside."></a></td>
-    <td><b>aside.</b><br>A native macOS notepad that lives on the edge of your screen. One click slides it out over any app, and every note saves as Markdown straight into your knowledge base. Written in Swift.<br><a href="https://aside-landing-two.vercel.app">aside-landing-two.vercel.app</a> · <a href="https://github.com/allstarszn/aside">code</a></td>
+    <td><b>aside.</b><br>A native macOS rail that lives on the edge of your screen, with AI built in. Notifications from every app pool into one place and you reply right from the rail, without switching windows. It doubles as a notepad, saving every note as Markdown. Written in Swift.<br><a href="https://aside-landing-two.vercel.app">aside-landing-two.vercel.app</a> · <a href="https://github.com/allstarszn/aside">code</a></td>
   </tr>
 </table>
